@@ -1,0 +1,83 @@
+Modules,Test cases ,Step Name ,Description ,Status ,Expected Result ,Actual Result ,Comments 
+Hompage Sign In,Verify the Login page design  ,1,"Veify the below fields and textbox,button are displayed in the login Home page 
+
+Price Comparison 
+Search button
+User logo
+Sign Email 
+Sign Password 
+Forgot password 
+Remember me
+Create a new account.",Not started ,"Below fields and textbox,button Should be displayed in the login Home page 
+
+Price Comparison 
+Search button
+User logo
+Sign Email 
+Sign Password 
+Forgot password 
+Remember me
+Create a new account.",,
+,Verify the Login Functionality ,1,Verify the user is able to login to the product page with register Email name and password ,Not started ,User should be able to login to the product page with register Email name and password,,
+,Verfiy the Login with Incorrect password ,1,Verify the user is not able to login to the product page with register Email name and password ,Not started ,User should not be able to login to the product page with register Email name and password,,
+,Verify the User Logon ion,1,Verify the user is able to view the User logon icon,Not started ,user should be able to view the User logon icon,,
+Register,Verify the Register Design ,1,"Veify the below fields are displayed in the login Register page 
+
+Email
+Password
+RE-type password ",Not started ,"Veify the below fields are displayed in the login Register page 
+
+Email
+Password
+RE-type password ",,
+,Verify the Register Functionality ,1,Verify the user is ale to Provide the information and register successfully ,Not started ,user should be able  to Provide the information and register successfully,,
+Product Page display and Function ,Verify the Product page design  ,1,"Veify the below fields and textbox,button are displayed in the Product page 
+
+Price Comparison 
+Search button
+User logo
+Page Navigator 
+Products display ",Not started ,"Veify the below fields and textbox,button should be displayed in the Product  page 
+
+Price Comparison 
+Search button
+User logo
+Page Navigator 
+Products display ",,
+,Verify the Search Function,1,Search icon and diplay is same as requirement ,Not started ,Search icon and diplay should be same as requirement ,,
+,,2,User is able to  type and search the products ,Not started ,User should be able type and search the products ,,
+,Verify the Page Navigator ,1,User is able to go forward when Next arrow is selected ,Not started ,User should be able to go forward when Next arrow is selected ,,
+,,2,User is able to go backward when previous arrow is selected ,Not started ,User should be able to go backward when previous arrow is selected ,,
+,,3,User is able to click on the Page Number to navigate to the corresponding page ,Not started ,User should be able to click on the Page Number to navigate to the corresponding page ,,
+,Verify the Product display and function ,1,Verify the product listing is displayed same as design ,Not started ,Verify the product listing should be displayed same as design ,,
+,,2,Verify the Image is displayed for all the Product listing ,Not started ,Verify the Image should be displayed for all the Product listing ,,
+Product Comparison Page ,Verify the Product Comparison page design  ,1,"Veify the below fields and textbox,button are displayed in the Product Comparison page 
+
+Price Comparison 
+Search button
+User logo
+Camparison Table 
+Comparison Range buttons",Not started ,"Veify the below fields and textbox,button should be displayed in the Product Comparison page 
+
+Price Comparison 
+Search button
+User logo
+Camparison Table 
+Comparison Range buttons",,
+,Verify the Product Comparison Table   ,1,"Verify the table structure as below 
+
+Serial No 
+Seller
+Price
+Details 
+Buy Button ",Not started ,"Verify the table structure should be displayed as below 
+
+Serial No 
+Seller
+Price
+Details 
+Buy Button ",,
+,,2,Verify the Buy Button is clickable ,Not started ,Buy Button should be clickable ,,
+,Verif the Compare by section ,1,Verify the Compare By section is displayed with Low to High and High to Low button ,Not started ,Verify the Compare By section should be displayed with Low to High and High to Low button ,,
+,,2,Verify the Low to High Price Products are listed in the Camparison Table when Low to High button is choosen ,Not started ,Verify the Low to High Price Products should be listed in the Camparison Table when Low to High button is choosen ,,
+,,3,Verify the High to Low Price Products are listed in the Camparison Table when High to Low  button is choosen ,Not started ,Verify the High to Low Price Products should be listed in the Camparison Table when High to Low  button is choosen ,,
